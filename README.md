@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Mihika! <br/><a href="https://github.com/Mihika893"></a> <a href="https://www.linkedin.com/in/ralph-bailey/">SOC Analyst</a></h1>
 
-<!--
-**Mihika893/Mihika893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My Projects</h2>
 
-Here are some ideas to get you started:
+- <b> Log Analysis with Splunk</b>
+  - [Analyzing Sysmon logs to detect and investigate malicious activities](https://github.com/Mihika893/Log-Analysis-Sysmon)
+- <b> File Integrity Monitoring System</b>
+  - [Python-based system monitors assigned files and directories](https://github.com/Mihika893/File-Integrity-Monitoring)
+ - <b> Network Triage with Wireshark</b>
+   - [Emotet & Formbook Traffic Analysis](https://github.com/Mihika893/Network-Triage-with-Wireshark)
+- <b> Malware Triage</b>
+  - [Trickbot triage](https://github.com/Mihika893/Malware-Anlaysis-Trickbot/tree/main)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Articles</h2>
+
+- <b>Networking</b>
+  - [Memory Dump Analysis](https://dev.to/mihika/memory-dump-analysis-kali-linux-4id3)
+  - [Email Analysis](https://dev.to/mihika/understanding-email-analysis-a-simple-guide-18i7)
+  - [Update | Backup | Recover | Kali Linux | Simple Guide ](https://dev.to/mihika/update-backup-recover-kali-linux-simple-guide-565)
+

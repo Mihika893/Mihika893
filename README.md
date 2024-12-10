@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mihika! <br/><a href="https://github.com/Mihika893"></a> <a href="https://www.linkedin.com/in/ralph-bailey/">SOC Analyst</a></h1>
+<h1>Hi, I'm Khushpreet! <br/><a href="https://github.com/Mihika893"></a> <a href="https://www.linkedin.com/in/ralph-bailey/">SOC Analyst</a></h1>
 
 <h2>My Projects</h2>
 
